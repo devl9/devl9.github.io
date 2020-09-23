@@ -11,10 +11,10 @@ $shadow-color: rgba(0, 0, 0, .2) !default;
 $code-color: #bf616a !default;
 
 // Fonts
-@import url('https://fonts.googleapis.com/css?family=Overpass+Mono:400,700');
-$serif-primary: 'Overpass Mono', serif !default;
-$serif-secondary: 'Overpass Mono', serif !default;
-$sans-serif: 'Overpass Mono', sans-serif !default;
+@import url('https://overpass-30e2.kxcdn.com/overpass-mono.css?family=overpass-mono:400,500');
+$serif-primary: 'overpass-mono', serif !default;
+$serif-secondary: 'overpass-mono', serif !default;
+$sans-serif: 'overpass-mono', sans-serif !default;
 $monospaced: Menlo, Monaco, monospace !default;
 
 @mixin box-sizing($type: border-box) {
