@@ -6,3 +6,4 @@ tags: helloworld
 ---
 
 Just some **Hello World!** words from me. Enjoy! ;)
+Ещё, проверка поддержки кириллицы. Пока всё.
